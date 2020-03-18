@@ -3,4 +3,4 @@ class Song
   
   @@count = 0
   @@artists = 0
-  @@
+  @@genres = 0
