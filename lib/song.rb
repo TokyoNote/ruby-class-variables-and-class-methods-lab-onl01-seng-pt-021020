@@ -22,3 +22,4 @@ class Song
     @@artist.uniq
   end
   
+  
